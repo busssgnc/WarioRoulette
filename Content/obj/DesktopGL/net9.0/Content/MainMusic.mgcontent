@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/MainMusic.mp3</SourceFile>
+  <SourceTime>2026-06-21T17:20:12.6884026+03:00</SourceTime>
+  <DestFile>C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/bin/DesktopGL/Content/MainMusic.xnb</DestFile>
+  <DestTime>2026-06-23T16:10:08.3804198+03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2025-10-20T17:25:32+03:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2025-10-20T17:25:32+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/bin/DesktopGL/Content/MainMusic.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

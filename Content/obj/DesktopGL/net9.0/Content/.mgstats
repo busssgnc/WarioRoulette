@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/click.mp3","C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/bin/DesktopGL/Content/click.xnb","SoundEffectProcessor","SoundEffectContent",18720,89961,0,3917792
+"C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/GameOverMusic.wav","C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/bin/DesktopGL/Content/GameOverMusic.xnb","SongProcessor","SongContent",92110,131,0,2777646
+"C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/MainMusic.mp3","C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/bin/DesktopGL/Content/MainMusic.xnb","SongProcessor","SongContent",1920960,127,1,1379696

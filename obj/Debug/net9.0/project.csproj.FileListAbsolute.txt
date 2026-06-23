@@ -1,0 +1,81 @@
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\Content\wario_bg.xnb
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\project.exe
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\project.deps.json
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\project.runtimeconfig.json
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\project.dll
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\project.pdb
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\MonoGame.Framework.dll
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\NVorbis.dll
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\obj\Debug\net9.0\mgcb.tool.restore
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\obj\Debug\net9.0\project.csproj.AssemblyReference.cache
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\obj\Debug\net9.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\obj\Debug\net9.0\project.AssemblyInfoInputs.cache
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\obj\Debug\net9.0\project.AssemblyInfo.cs
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\obj\Debug\net9.0\project.csproj.CoreCompileInputs.cache
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\obj\Debug\net9.0\project.csproj.Up2Date
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\obj\Debug\net9.0\project.dll
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\obj\Debug\net9.0\refint\project.dll
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\obj\Debug\net9.0\project.pdb
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\obj\Debug\net9.0\project.genruntimeconfig.cache
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\obj\Debug\net9.0\ref\project.dll
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\Content\GameStart.xnb
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\Content\GameOver.xnb
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\Content\Light.xnb
+C:\Users\büşra\OneDrive\Masaüstü\WarioRoulette\project\bin\Debug\net9.0\Content\coin.xnb
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\Content\coin.xnb
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\Content\GameOver.xnb
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\Content\GameStart.xnb
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\Content\Light.xnb
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\Content\wario_bg.xnb
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\project.exe
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\project.deps.json
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\project.runtimeconfig.json
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\project.dll
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\project.pdb
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\MonoGame.Framework.dll
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\NVorbis.dll
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\obj\Debug\net9.0\mgcb.tool.restore
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\obj\Debug\net9.0\project.csproj.AssemblyReference.cache
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\obj\Debug\net9.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\obj\Debug\net9.0\project.AssemblyInfoInputs.cache
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\obj\Debug\net9.0\project.AssemblyInfo.cs
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\obj\Debug\net9.0\project.csproj.CoreCompileInputs.cache
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\obj\Debug\net9.0\project.csproj.Up2Date
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\obj\Debug\net9.0\project.dll
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\obj\Debug\net9.0\refint\project.dll
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\obj\Debug\net9.0\project.pdb
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\obj\Debug\net9.0\project.genruntimeconfig.cache
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\obj\Debug\net9.0\ref\project.dll
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\Content\click.xnb
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\Content\GameOverMusic.ogg
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\Content\GameOverMusic.xnb
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\Content\MainMusic.ogg
+C:\Users\sozfi\Desktop\WarioRoulette (1)\WarioRoulette\project\bin\Debug\net9.0\Content\MainMusic.xnb

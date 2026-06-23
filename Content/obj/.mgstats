@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/click.mp3","C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/bin/click.xnb","SoundEffectProcessor","SoundEffectContent",18720,89961,0,4284251
+"C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/coin.png","C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/bin/coin.xnb","TextureProcessor","Texture2DContent",377,4181,0,0455073
+"C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/GameOver.png","C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/bin/GameOver.xnb","TextureProcessor","Texture2DContent",204917,4325461,0,2070886
+"C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/GameOverMusic.wav","C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/bin/GameOverMusic.xnb","SongProcessor","SongContent",92110,131,0,2725143
+"C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/GameStart.png","C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/bin/GameStart.xnb","TextureProcessor","Texture2DContent",333615,4269525,0,3140426
+"C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/Light.png","C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/bin/Light.xnb","TextureProcessor","Texture2DContent",872731,4206165,0,2185494
+"C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/MainMusic.mp3","C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/bin/MainMusic.xnb","SongProcessor","SongContent",1920960,127,0,4621763
+"C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/wario_bg.png","C:/Users/sozfi/Desktop/WarioRoulette (1)/WarioRoulette/project/Content/bin/wario_bg.xnb","TextureProcessor","Texture2DContent",15556,150485,0,0093833
